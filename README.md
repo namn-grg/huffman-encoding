@@ -1,5 +1,7 @@
 # Compressing/Decompressing a file using Huffman codes
 
+NOTE - very untidy code, needs to be cleaned up. Implemented back in July 2022.
+
 Compress a file using Huffman codes and decompress a file
 encoded using Huffman codes. The inputs of the program are the following:
 
