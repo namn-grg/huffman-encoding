@@ -40,7 +40,7 @@ struct node
     int data;
     struct node *next;
     struct htnode *down;
-} * first, *last = NULL;
+} *first, *last = NULL;
 //
 int getL(char str[])
 {
